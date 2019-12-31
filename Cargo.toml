@@ -6,7 +6,7 @@ version = "0.1.0"
 
 [dependencies]
 clap = "2.33.0"
-cpal = "0.10.0"
+cpal = "0.11.0"
 hound = "3.4.0"
 lewton = "0.9.1"
 minimp3 = "0.3.3"
